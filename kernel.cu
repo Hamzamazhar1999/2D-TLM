@@ -1,7 +1,3 @@
-/*  -------------- Hamza Bin Mazhar - 20498276 ---------------
-    -------------------- 2D-TLM using CUDA -------------------
-    ----------- Coursework 02 - GPU Programming --------------*/
-
 //Including all the libraries essentials
 #include "cuda_runtime.h"   
 #include "device_launch_parameters.h"
