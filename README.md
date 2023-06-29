@@ -28,7 +28,7 @@ simulated network is set using this function. It describes the connections betwe
 grids. The coefficients of the TLM equation are set up using the connect functions and these
 ultimately lead to the update of the node values.
 
-# Changes made in the GPU kernel
+# Changes made in the GPU kernel:
 
 Initially, the connect function is used to exchange the V2 and V4 port voltage values between the
 grid nodes. Then the exchange of the voltages at the V1 and V3 port happens. These transactions
